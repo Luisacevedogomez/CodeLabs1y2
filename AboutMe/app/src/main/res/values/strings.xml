@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Albert Pujols</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio"> José Alberto Pujols Alcántara (Santo Domingo, 16 de enero de 1980), más conocido como Albert Pujols, es un primera base dominicano ligamayorista que se encuentra en la organización de los Angelinos de Anaheim. Anteriormente jugó para los Cardenales de San Luis de 2001 a 2011. Fue considerado uno de los mejores jugadores de las Grandes Ligas1​2​ y el bateador más temido en el béisbol, según una encuesta realizada por los 30 mánagers de la MLB en el 2008.3​
+    Como miembro de los Cardenales de San Luis, Pujols ganó el Novato del Año de la Liga Nacional en 2001 y desde entonces ha sido seleccionado como All-Star en nueve ocasiones, ha ganado el premio al Jugador más Valioso de la Liga Nacional en tres ocasiones, ha ganado dos veces el Hank Aaron Award de la Liga Nacional, y tiene dos anillos de Serie Mundial en 2006 y 2011.
+    Al final de la temporada 2010, lideró a todos los jugadores activos en promedio de bateo con.331,4​ porcentaje de slugging con.624,5​ y en porcentaje de embasarse con.426, y se encuentra en el número 6 como uno de los mejores jonroneros en la historia de las Grandes Ligas.6​7​ Fue seleccionado por ESPN.com como el mejor jugador de la década de 2000 a 2009.</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
